@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiveSearch", "LiveSearch\LiveSearch.csproj", "{94764F39-DBFE-419A-BDC4-FD5D1F3576FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94764F39-DBFE-419A-BDC4-FD5D1F3576FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94764F39-DBFE-419A-BDC4-FD5D1F3576FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94764F39-DBFE-419A-BDC4-FD5D1F3576FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94764F39-DBFE-419A-BDC4-FD5D1F3576FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6FDA7D5E-5772-4F94-B634-49EA772EE2A6}
+	EndGlobalSection
+EndGlobal
